@@ -27,4 +27,4 @@
 
 #### Инструкция по работе с приложением
 * Запустив приложение в logcat выведутся строки показанные на картинке ниже
-  ![image](https://github.com/Torrentfail/laba3/assets/73963690/45f89666-197e-41a5-a560-a60b10a34029)
+  ![image](https://github.com/Torrentfail/laba3/assets/73963690/90eec98c-c605-4155-8223-5a1ff03328c1)
